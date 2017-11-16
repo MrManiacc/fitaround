@@ -1,0 +1,21 @@
+{
+  "name": "RoundFit",
+  "version": "0.1.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/MrManiacc/fitaround",
+  "keywords": [
+    "Fitness",
+    "Wellbeing",
+    "Helath",
+    "Helper"
+  ],
+  "author": "James Raynor",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
